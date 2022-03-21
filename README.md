@@ -1,1 +1,1 @@
-# AzureFinOpsStarterKit
+# Azure Cloud Financial Management Starter Kit
